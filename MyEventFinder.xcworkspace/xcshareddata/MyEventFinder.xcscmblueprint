@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2FB88C624CA449136D3906BACCC1BCD00135D7D2+++5D6DFAA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2FB88C624CA449136D3906BACCC1BCD00135D7D2+++5D6DFAA" : 0,
+    "2FB88C624CA449136D3906BACCC1BCD00135D7D2+++ACA2462" : 0,
+    "2FB88C624CA449136D3906BACCC1BCD00135D7D2+++882C119" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E42D6BE8-B9D4-4110-AD8F-84D2A10EF09A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2FB88C624CA449136D3906BACCC1BCD00135D7D2+++5D6DFAA" : "EventFinderAWS\/",
+    "2FB88C624CA449136D3906BACCC1BCD00135D7D2+++ACA2462" : "EventFinderGIT\/",
+    "2FB88C624CA449136D3906BACCC1BCD00135D7D2+++882C119" : "EventFinderGIT\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MyEventFinder",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MyEventFinder.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/MichaelGuoXY\/EventFinderAWS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2FB88C624CA449136D3906BACCC1BCD00135D7D2+++5D6DFAA"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/MichaelGuoXY\/EventFinerGIT.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2FB88C624CA449136D3906BACCC1BCD00135D7D2+++882C119"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/MichaelGuoXY\/EventFinderAWS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2FB88C624CA449136D3906BACCC1BCD00135D7D2+++ACA2462"
+    }
+  ]
+}
